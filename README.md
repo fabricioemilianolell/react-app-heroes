@@ -1,4 +1,4 @@
-#Heroes App - Single Page Application(SPA)
+Heroes App - Single Page Application(SPA)
 
 App React - utilización de React-Router - protección de rutas - testing
 
